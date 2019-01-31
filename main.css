@@ -3,3 +3,35 @@
     width: 250px;
     border: 1px solid black;
 }
+
+.color-block {
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+
+.transform {
+    border-radius: 150px;
+}
+
+.blue {
+    background: blue;
+
+}
+
+.green {
+    background: green;
+}
+
+.red {
+    background: red;
+}
+
+.yellow {
+    background: yellow;
+}
+
+.aqua {
+    background: aqua;
+}
+
